@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React Here Retika
+            Learn React Here Retika. I was changed on the feature branch
           </a>
         </header>
       </div>
